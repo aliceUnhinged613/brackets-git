@@ -61,7 +61,7 @@
     "@types/urijs": "1.15.31",
     "@types/which": "1.0.28",
     "concurrently": "3.1.0",
-    "eslint": "3.13.1",
+    "eslint": "7.7.0",
     "eslint-config-pureprofile": "2.2.0",
     "glob": "7.1.1",
     "grunt": "latest",
